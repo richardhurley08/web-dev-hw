@@ -14,4 +14,4 @@
 
 + I did have a problem with getting my screenshot to show but after some troubleshooting I figured out it was a screenshot placement issue.
 
-![Image of my Atom editor](./images/screenshot.png)
+![Project 1 workspace](./images/screenshot.png)
