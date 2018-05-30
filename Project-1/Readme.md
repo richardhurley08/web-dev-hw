@@ -6,11 +6,11 @@
 + On the Wayback Machine I looked up University of Montana. It felt retro when compared to our websites today. The pictures were low quility and it felt like everything was rectangles and squares.
 
 + During this week I followed this steps:
-  1. I learned how browsers work.
-  3. I read a little of out text that finally came in the mail.
-  4. I made my first index.HTML document.
-  7. I made my repo a webpage with GitHub page.
-  8. In project-1 I found a poem by Will Rogers called "Don’t Let Yesterday Take Up Too Much Of Today."
+  * I learned how browsers work.
+  * I read a little of out text that finally came in the mail.
+  * I made my first index.HTML document.
+  * I made my repo a webpage with GitHub page.
+  * In project-1 I found a poem by Will Rogers called "Don’t Let Yesterday Take Up Too Much Of Today."
 
 + I did have a problem with getting my screenshot to show but after some troubleshooting I figured out it was a screenshot placement issue.
 
