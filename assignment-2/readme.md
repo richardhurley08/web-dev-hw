@@ -1,20 +1,9 @@
-  </head>
-  <body class='markdown-preview' data-use-github-style><h3 id="briefly-describe-one-way-how-data-travels-on-the-internet-">Briefly describe one way how data travels on the internet.</h3>
-<ul>
-<li>Information travels through the internet in packets and bits. these packets are broken up and sent in random orders and reassembled in the correct order when it arrives.</li>
-</ul>
-<h3 id="what-is-the-relationship-between-ip-address-and-the-dns-">What is the relationship between IP address and the DNS?</h3>
-<ul>
-<li>IP is a series of numbers that act like an address and DSN acts like a translator that turned the address into a domain names.</li>
-</ul>
-<h3 id="what-is-a-cookie-">What is a cookie?</h3>
-<ul>
-<li>Cookies are identifiers that your computer saves that allows a website that you revisit confirm that you are you and acts like a time saver.</li>
-</ul>
-<h3 id="list-the-three-basic-parts-of-an-url-">List the three basic parts of an URL.</h3>
-<ul>
-<li>Protocol</li>
-<li>Domain name</li>
-<li>Path</li>
-</ul></body>
-</html>
+## Assignment 2
+
+A Version Control System is a software that saves and track the changes to a file and folder. We use this system because it is easier for a user to get track of the history of a file and, this makes it possible to rebvert back to a prieviouse verson if there is any issues.
+
+[This is my responses file](./responses.txt)
+
+I learned more about the Internet Ip adresses and DSN. I nread what makes up URLs and the meaning. I created my second repository on GitHub. I was having issues getting my folder to show on GitHub but with a little trial and error was able to fix my issue.
+
+![This is my screenshot](./images/screenshot.jpg)
