@@ -1,5 +1,3 @@
-
-</style>
   </head>
   <body class='markdown-preview' data-use-github-style><h3 id="briefly-describe-one-way-how-data-travels-on-the-internet-">Briefly describe one way how data travels on the internet.</h3>
 <ul>
