@@ -13,4 +13,4 @@
 
 + During this week I didn't have any problem.
 
-![Image of my Atom editor](./images/screenshot.PNG)
+![Image of my Atom editor](./images/screenshot.png)
