@@ -3,7 +3,7 @@
 + A page can only have one <head> element and one <body> element.
 
 
-    + The '<head>' element contains processing information and document data. The site visitors can't see the information inside this element. '<title>' is only required element.
+    + The `<head>` element contains processing information and document data. The site visitors can't see the information inside this element. `<title>` is only required element.
     + The '<body>' contains all the visible data.
 
 
