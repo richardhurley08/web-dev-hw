@@ -1,0 +1,117 @@
+Intro-Web-Dev
+Assignment 4 Information
+==========
+Below is the content needed to complete your homework. Please use it to fulfill the assignment requirements found on Moodle.
+==========
+
+// Title:
+Pine Park Center Kids Kamp
+(Subtitle: Summer Program for Kids Aged 3-15 Years)
+
+
+
+// About:
+The Pine Park Center "Kids Kamp" is a week-long summer camp offering a variety of programs in athletics, wilderness awareness, and arts and humanities. Kampers are exposed to a wide-range of indoor and outdoor activities, designed to strengthen group and individual dynamics, skills, and interests. Registration begins May 1.
+
+
+
+// Programs:
+Kommunity Kampfire
+    Evening "Kommunity Kampfires" encourage togetherness, group activities, and hands-on learning.
+Kamping
+    Friday night "Kamping" trips teach basic survivor skills, and provide an opportunity to unplug and explore nature.
+Katfish Swimming
+    The "Katfish" program offers lessons at our Center for three levels of swimmer, from beginner to advanced.
+The Kids Kamp Kickers (Also offered singularly)
+    A favorite among registrants, any Kamper may join a "Kids Kamp Kickers" soccer team. Try-outs held during the first practice.
+Konquerors
+    For the adventurer and explorer in every kid, "Konquerors" participate in novelty activities like orienteering or horseback riding. Offerings depend on season and instructor availability. Ages 10+.
+Krafts and Kultures
+    Kids Kamp brings in local talent to share their skills and knowledge with our bright young Kampers. Past instructors have included graffiti artist Avi and astronomer Dr. Jamal Warren.
+
+
+
+// Cost:
+Registration is a one-time cost of $50 (non-refundable). Electronic "Kamp Kards" are charged at the entrance to all programs, and are pre-filled in these amounts:
+    1 Program  ($50)
+    2 Programs ($100)
+    3 Programs ($150)
+    4 Programs ($175)
+    5 Programs ($200)
+    Komplete Package: 6 Programs ($225)
+    Kickers Soccer Program ONLY ($25)
+
+
+
+// Jerseys:
+Kickers Registration includes one team jersey (100% polyester), in standard sizes: 3T, 4T, 5T, Youth XS (4-5), Youth S (6-8), Youth M (9-11), Youth L (12-14), Youth XL/Adult S (15)
+
+
+
+// Schedule:
+Kampfires
+    Monday    - 6:00PM-8:00PM
+    Tuesday   - 6:00PM-8:00PM
+    Wednesday - 6:00PM-8:00PM
+    Thursday  - 6:00PM-8:00PM
+    Friday    -
+    Saturday  -
+    Sunday    -
+Kampers
+    Monday    -
+    Tuesday   -
+    Wednesday -
+    Thursday  -
+    Friday    - 6:00PM-10:00AM
+    Saturday  -
+    Sunday    -
+Katfishes
+    Monday    - 1:00PM-4:00PM
+    Tuesday   - 1:00PM-4:00PM
+    Wednesday - 1:00PM-4:00PM
+    Thursday  -
+    Friday    -
+    Saturday  -
+    Sunday    -
+Kickers
+    Monday    - 10:00AM-12:00PM
+    Tuesday   -
+    Wednesday - 10:00AM-12:00PM
+    Thursday  - 2:00PM-4:00PM
+    Friday    -
+    Saturday  -
+    Sunday    - Match TBD
+Konquerors
+    Monday    -
+    Tuesday   -
+    Wednesday -
+    Thursday  -
+    Friday    - 10:00AM-4:00PM
+    Saturday  -
+    Sunday    -
+Krafts
+    Monday    -
+    Tuesday   - 10:00AM-12:00PM
+    Wednesday -
+    Thursday  - 10:00AM-1:00PM
+    Friday    -
+    Saturday  -
+    Sunday    -
+
+
+
+
+
+// Image Captions:
+"kampfire.jpeg"
+    Kampers share stories while learning traditional outdoor cooking.
+"kamping.jpeg"
+    Only 1 mile away, Pine Park offers great space to set-up tents close to facilities.
+"katfishes.jpeg"
+    A first-time Katfish learns basic floating, kicking, and water safety awareness at our full-size community pool.
+"kickers.jpeg"
+    Taking a rest after a "Kickers" soccer match.
+"konquerors.jpeg"
+     Zip-lining through Pine Park.
+"krafting.jpeg"
+    A Kamper adds the finishing touches to his addition to a Kamp-wide mural.
