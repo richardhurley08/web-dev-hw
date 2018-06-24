@@ -1,0 +1,18 @@
+Intro-Web-Dev
+Assignment 5 Information
+==========
+Below is the content needed to complete your homework. Please use it to fulfill the assignment requirements found on Moodle.
+==========
+
+// Copyright:
+
+All provided media is (c) ARTIST NAME. This site was produced for the class "Introduction to Web Design & Development" with the University of Montana, School of Media Arts, and does not profit from any use of said media.
+
+
+
+// Contact:
+
+University of Montana
+School of Media Arts, McGill Hall Rm 127
+32 Campus Dr
+Missoula, MT 59812
