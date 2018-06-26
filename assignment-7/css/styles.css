@@ -1,0 +1,11 @@
+h1 {font-family: Merriweather, times; font-size: 22pt; font-style: normal;}
+h2 {font-family: Shining NFI Demo, impact; font-size: 26pt; font-style: normal;}
+h3 {font-family: Tox Typewriter, courier; font-size: 16pt; font-style: normal;}
+p {font-family: Tox Typewriter, courier; font-size: 14pt; line-height: 3; font-style: normal;}
+p1 {font-family: Tox Typewriter, courier; font-size: 14pt; line-height: 2; font-style: normal;}
+p2 {font-family: Tox Typewriter, courier; font-size: 14pt; line-height: 3; font-style: normal;}
+p::first-line {color: red;}
+a:link {color:red;}
+a:visited{color:blue;}
+a:hover{color:red; font-style:italic;}
+a {font-family: Tox Typewriter; font-size: 16pt;}
