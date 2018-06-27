@@ -14,6 +14,5 @@
 + Summarize your work cycle for this assignment. Review this page if you need some ideas.
  + During this week I read the textbook and website. I was happy to be able to add <br /> a photoshop picture I made. I began with the simple HTML layout and began to <br /> build from there. after adding my style.css the hard part was over. I spent a  more <br /> time tweeking the layout than setting it up. I had alot of fun with this assignment.
 
- <p>
 ![Image of my Atom editor](./images/screenshot.jpg)
-</p>
+
