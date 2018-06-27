@@ -44,6 +44,6 @@ li {
 #github {
   filter:solid(100%);
   border: 0px solid black;
-  left: 0px;
+  left: -50px;
   top: 100px;
 }
