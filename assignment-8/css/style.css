@@ -18,13 +18,6 @@ body {
   white-space: nowrap;
   z-index: -4;
 }
-h1 {
-  font-family: 'Broadway', sans-serif;
-  font-style: oblique;
-  color: solid black
-  font-variant-caps: large-caps;
-  letter-spacing: -1px;
-}
 #list {
   position: fixed;
   top: 0px;
@@ -44,7 +37,7 @@ li {
 #github {
   position: absolute;
   left: 0px;
-  top: 0px;
+  top: 0x;
   filter: (100%);
   zindex: 2;
 }
