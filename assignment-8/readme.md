@@ -1,9 +1,9 @@
 ## Assignment 8
 
 + What is the difference between padding, margin, and borders?<br />
-  1. Padding-The is a transparent space around the content.
- + margin-The area around the border.
- + borders-This is a fram around the content and padding.
+ 1. Padding-The is a transparent space around the content.
+ 2. margin-The area around the border.
+ 3.  borders-This is a fram around the content and padding.
 
 
 + What was the hardest task for you to accomplish this assignment? For example, was it overlapping<br /> elements, working with sizing, creating layout, or something else entirely?
