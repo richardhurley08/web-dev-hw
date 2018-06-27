@@ -21,6 +21,7 @@ body {
 h1 {
   font-family: 'Broadway', sans-serif;
   font-style: oblique;
+  color: solid black
   font-variant-caps: large-caps;
   letter-spacing: -1px;
 }
