@@ -1,0 +1,49 @@
+body {
+  background-color: white;
+}
+#bgimage {
+  position: fixed;
+  z-index: -5;
+}
+#name {
+  position: fixed;
+  top: 500px;
+  padding-left: 498px;
+  padding-right: 498px;
+  text-align: center;
+  background-color: black;
+  color: black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  white-space: nowrap;
+  z-index: -4;
+}
+h1 {
+  font-family: 'Broadway', sans-serif;
+  font-style: oblique;
+  font-variant-caps: large-caps;
+  letter-spacing: -1px;
+}
+#list {
+  position: fixed;
+  top: 0px;
+  left: 430px;
+  text-align: center;
+  white-space: nowrap;
+}
+li {
+  font-family: 'Broadway', sans-serif;
+  font-variant-caps: large-caps;
+  display: inline;
+  border: 2px solid Black;
+  padding-left: 10px;
+  padding-right: 4px;
+  color: black;
+}
+#github {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: (100%);
+  zindex: 2;
+}
