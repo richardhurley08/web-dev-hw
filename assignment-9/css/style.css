@@ -47,3 +47,16 @@ li {
   left: -50px;
   top: 100px;
 }
+#navigation-bar{
+position: absolute;
+left: 0px;
+top: 0x;
+filter: (100%);
+zindex: 2;
+}
+#navigation-bar{
+filter:solid(100%);
+border: 0px solid black;
+left: 110px;
+top: -55px;
+}
